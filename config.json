@@ -1,0 +1,17 @@
+{
+    "token": "YOUR_TOKEN_HERE",
+    "interval_seconds": 5,
+    "cryptocurrencies":[
+        "BTC",
+        "ETH",
+        "LTC",
+        "XRP",
+        "NAV",
+        "BCH",
+        "LSK",
+        "ZEC",
+        "XMR",
+        "ETC",
+        "XVG"
+    ]
+}
